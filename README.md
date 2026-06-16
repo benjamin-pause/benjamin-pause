@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour, je suis Benjamin 👋
 
-<!--
-**benjamin-pause/benjamin-pause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant BTS SIO option SISR — La Réunion  
+🔐 Passionné par les réseaux, la cybersécurité et l'infrastructure système  
+🌱 En ce moment j'apprends : Zabbix, supervision réseau avancée  
+🔭 Actuellement en stage : déploiement et comparaison de solutions SIEM  
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- Administration Linux & scripting Bash
+- Supervision réseau (Zabbix, Elastic Stack, OpenSearch)
+- Conteneurisation (Docker, Docker Compose)
+- Sécurité & SIEM (Elastic Security, Wazuh)
+- Réseaux (VLAN, routage, pare-feu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mes projets
+| Projet | Description |
+|--------|-------------|
+| [Elastic Stack vs OpenSearch](https://github.com/benjamin-pause/Elastic-Stack-vs-OpenSearch) | Déploiement comparatif Docker — stage BTS SIO |
+| [SIEM Elastic Stack](https://github.com/benjamin-pause/siem-elastic-stack) | Fleet Server + Beats — stage BTS SIO |
+| [Scripts Sysadmin](https://github.com/benjamin-pause/scripts-administration-systeme-et-reseau) | Scripts Bash d'administration courante |
+
+## 📫 Me contacter
+[![Portfolio](https://img.shields.io/badge/Portfolio-en%20ligne-blue)](https://ton-lien-portfolio.fr)
